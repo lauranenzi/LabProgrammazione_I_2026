@@ -13,7 +13,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 
 **Materiale:**   
 Ci sono le [dispense](Dispense_Laboratorio_Programmazione_1_new_version.pdf) che saranno aggiornate lezione dopo lezione  
-Ci sono le  [slides](slides), che trovate qui sotto, assieme agli esercizi  [esercizi](esercizi) (sia proposti dai tutor che in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni.   
+Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](esercizi) (sia proposti dai tutor che in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni.   
 Qui [](https://allendowney.github.io/ThinkPython/) il miglior libro che posso consigliarvi con le basi di Python.   
 [Qui](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://web.unica.it/static/resources/cms/documents/thinkpython_italian.pdf) l'ultima versione in italiano gratuita ma un po' vecchia.
 ## News
