@@ -1,13 +1,13 @@
 # LABORATORIO DI PROGRAMMAZIONE I
 
-Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificiale e per Statistica dell'Università degli studi di Trieste.
+Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificiale e per Statistica dell'Università degli Studi di Trieste.
 
 ## Informazioni
 **Docente:** Laura Nenzi [lnenzi@units.it](mailto:lnenzi@units.it)
 
 **Aula ed orario:** 
 - Lunedì 14-17, Aula 2A Morin, edificio H2Bis
-- Lunedì 9-12, Aula 2A Morin, edificio H2Bis
+- Venerdì 9-12, Aula 2A Morin, edificio H2Bis
 
 **Aiuto:** La modalità principale è chiedere ai tutor: [lucrezia.valeriani@phd.units.it](mailto:lucrezia.valeriani@phd.units.it) e [valentina.blasone@phd.units.it](mailto:valentina.blasone@phd.units.it). Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevimento studenti.
 
