@@ -18,7 +18,7 @@ Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevi
 
 **Materiale:**   
 Ci sono le [dispense](altro_materiale/DispensaLabProg.pdf) che saranno aggiornate lezione dopo lezione  
-Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](esercizi) (sia proposti dai tutor che nelle lezioni frontali) di cui verranno pubblicate alcune soluzioni.
+Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](esercizi) (sia proposti dai tutor che nelle lezioni frontali) di cui verranno pubblicate alcune soluzioni.   
 [Qui](https://docs.python.org/it/3/tutorial/index.html) il tutorial ufficiale di Python  
 [Qui](https://allendowney.github.io/ThinkPython/) il miglior libro che posso consigliarvi con le basi di Python, [Qui](https://github.com/AllenDowney/ThinkPythonItalian/blob/master/thinkpython_italian.pdf) l'ultima versione in italiano gratuita ma un po' vecchia.
 ## News
