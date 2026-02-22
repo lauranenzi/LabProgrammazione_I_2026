@@ -12,7 +12,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 **Aiuto:** La modalità principale è chiedere ai tutor: 
 - Nicholas Pearson: [nicholasandrea.pearson@phd.units.it](mailto:nicholasandrea.pearson@phd.units.it) 
 - Michele Alessi [michele.alessi@phd.units.it](mailto:michele.alessi@phd.units.it). 
-- Ermes Aviana[ermes.aviano@phd.units.it](mailto:valentina.blasone@phd.units.it). 
+- Ermes Aviano [ermes.aviano@phd.units.it](mailto:valentina.blasone@phd.units.it). 
 
 Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevimento studenti.
 
