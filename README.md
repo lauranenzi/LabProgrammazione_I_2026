@@ -9,7 +9,12 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificial
 - Lunedì 14-17, Aula 2A Morin, edificio H2Bis
 - Venerdì 9-12, Aula 2A Morin, edificio H2Bis
 
-**Aiuto:** La modalità principale è chiedere ai tutor: [lucrezia.valeriani@phd.units.it](mailto:lucrezia.valeriani@phd.units.it) e [valentina.blasone@phd.units.it](mailto:valentina.blasone@phd.units.it). Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevimento studenti.
+**Aiuto:** La modalità principale è chiedere ai tutor: 
+- Nicholas Pearson: [nicholasandrea.pearson@phd.units.it](mailto:nicholasandrea.pearson@phd.units.it) 
+- Michele Alessi [michele.alessi@phd.units.it](mailto:michele.alessi@phd.units.it). 
+- Ermes Aviana[ermes.aviano@phd.units.it](mailto:valentina.blasone@phd.units.it). 
+
+Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevimento studenti.
 
 **Materiale:**   
 Ci sono le [dispense](Dispense_Laboratorio_Programmazione_1_new_version.pdf) che saranno aggiornate lezione dopo lezione  
