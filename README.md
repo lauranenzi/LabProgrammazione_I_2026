@@ -27,12 +27,11 @@ Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](ese
 ## Lezioni e slides
 
 - **Lezione 1** (23/02/2026):
-     - Prima e Seconda ora: Introduzione e Strumenti | [slides](slides/Parte1.pdf)
-     - Terza ora: settare l'ambiente 
+     - Prima ora: Introduzione e Strumenti | [slides](slides/Lez1.pdf)
+     - Seconda e terza ora: settare l'ambiente 
 
 - **Lezione 2** (27/02/2026):
-     - Prima ora: esercitazione
-     - Seconda e Terza ora: Tipi dati, costrutti, funzioni, moduli, be pythonic | [slides](slides/Parte2.pdf), [Colab Notebook link](https://drive.google.com/file/d/1JOQedD1rIVdrtHvyLRHEbHQC0M1ci5c7/view?usp=sharing)
+     - TBA
       
 
 ## Modalità di esame
