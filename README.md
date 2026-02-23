@@ -36,7 +36,7 @@ Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](ese
 
 ## Modalità di esame
 La modalità d'esame è la seguente:
-- Esame scritto di 2 ore al computer in un'aula d'informatica dell'università. Le aule di informatica dove farete l'esame avranno computer tutti forniti direttamente con Visual Studio Code.
+- Esame scritto al computer in un'aula d'informatica dell'università. Le aule di informatica dove farete l'esame avranno computer tutti forniti direttamente con Visual Studio Code.
 - La connessione internet non sarà presente ma potrete accedere alla pagina del corso su Moodle,  [link](https://moodle2.units.it/course/view.php?id=16556)). Il giorno dell'esame troverete sulla pagine del corso su Moodle il testo dell'esame e dovrete caricare sulla stessa piattaforma l'elaborato finale. È essenziale quindi che chiunque voglia fare l'esame sia iscritto al corso del laboratorio su Moodle. 
 - Possono sostenere l'esame solo gli studenti che hanno passato la parte del prof. Caravagna.
 - L’orale è facoltativo se lo scritto è >= 18, obbligatorio se il voto è 16,17 ed obbligatorio a discrezione del docente se vengono rilevate delle irregolarità
