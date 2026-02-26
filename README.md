@@ -31,7 +31,7 @@ Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](ese
      - Seconda e terza ora: settare l'ambiente 
 
 - **Lezione 2** (27/02/2026):
-     - TBA
+      - Introduzione a Python: Tipi dati, operatori, costrutti, funzioni| [slides](slides/Lez2.pdf)
       
 
 ## Modalità di esame
