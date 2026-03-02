@@ -32,6 +32,9 @@ Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](ese
 
 - **Lezione 2** (27/02/2026):
       - Introduzione a Python: Tipi dati, operatori, costrutti, funzioni| [slides](slides/Lez2.pdf)
+
+- **Lezione 3** (02/03/2026):
+      - Introduzione a Python: Liste e File| [slides](slides/Lez3.pdf)
       
 
 ## Modalità di esame
