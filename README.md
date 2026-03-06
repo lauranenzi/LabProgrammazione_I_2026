@@ -35,6 +35,9 @@ Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](ese
 
 - **Lezione 3** (02/03/2026):
       - Introduzione a Python: Liste e File| [slides](slides/Lez3.pdf)
+
+- **Lezione 4** (06/03/2026):
+      - Programmazione Orientata agli oggetti| [slides](slides/Lez4.pdf)
       
 
 ## Modalità di esame
