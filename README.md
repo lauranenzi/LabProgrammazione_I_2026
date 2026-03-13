@@ -39,9 +39,11 @@ Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](ese
 - **Lezione 4** (06/03/2026):
       - Programmazione Orientata agli oggetti| [slides](slides/Lez4.pdf)
 
-- **Lezione 4** (06/03/2026):
+- **Lezione 5** (09/03/2026):
       - Accesso ed Ereditarietà| [slides](slides/Lez5.pdf)
-      
+
+- **Lezione 6** (13/03/2026):
+      - Gestione degli errori e controllo dell'input| [slides](slides/Lez6.pdf)
 
 ## Modalità di esame
 La modalità d'esame è la seguente:
