@@ -48,6 +48,9 @@ Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](ese
 - **Lezione 7** (16/03/2026):
       - Controllo dell'input e tanti esercizi| [slides](slides/Lez6-7.pdf)
 
+- **Lezione 8** 206/03/2026):
+      - List comprehension ed iteratori| [slides](slides/Lez8.pdf)
+
 ## Modalità di esame
 La modalità d'esame è la seguente:
 - Esame scritto al computer in un'aula d'informatica dell'università. Le aule di informatica dove farete l'esame avranno computer tutti forniti direttamente con Visual Studio Code.
