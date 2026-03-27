@@ -23,7 +23,7 @@ Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](ese
 [Qui](https://allendowney.github.io/ThinkPython/) il miglior libro che posso consigliarvi con le basi di Python, [Qui](https://github.com/AllenDowney/ThinkPythonItalian/blob/master/thinkpython_italian.pdf) l'ultima versione in italiano gratuita ma un po' vecchia.
 
 ## News
-- Lunedì 30 Marzo c'è la correzione delle esercitaioni per la prova parziale del 13 Aprile 2026,  l'aula 4 inf 1 ed D 
+- Il 30 Marzo c'è la correzione delle esercitazioni per la prova parziale del 13 Aprile
 
 ## Lezioni e slides
 
@@ -62,7 +62,7 @@ La modalità d'esame è la seguente:
 - La prova orale si sostiene solo nell'appello in cui si svolge lo scritto, ed in date e orari concordati col docente.
 
 ## Appelli d'esame
-- Prova parziale, 13 Aprile 2026,  l'aula 4 inf 1 ed D 
+- Prova parziale, 13 Aprile 2026,  l'aula 4 inf 1 ed D, ore 14
 Sessione Estiva:
 - TBA
            
