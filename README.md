@@ -21,8 +21,9 @@ Ci sono le [dispense](altro_materiale/DispensaLabProg.pdf) che saranno aggiornat
 Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](esercizi) (sia proposti dai tutor che nelle lezioni frontali) di cui verranno pubblicate alcune soluzioni.   
 [Qui](https://docs.python.org/it/3/tutorial/index.html) il tutorial ufficiale di Python  
 [Qui](https://allendowney.github.io/ThinkPython/) il miglior libro che posso consigliarvi con le basi di Python, [Qui](https://github.com/AllenDowney/ThinkPythonItalian/blob/master/thinkpython_italian.pdf) l'ultima versione in italiano gratuita ma un po' vecchia.
+
 ## News
-- [23/02/2026] 
+- Lunedì 30 Marzo c'è la correzione delle esercitaioni per la prova parziale del 13 Aprile 2026,  l'aula 4 inf 1 ed D 
 
 ## Lezioni e slides
 
@@ -61,6 +62,7 @@ La modalità d'esame è la seguente:
 - La prova orale si sostiene solo nell'appello in cui si svolge lo scritto, ed in date e orari concordati col docente.
 
 ## Appelli d'esame
+- Prova parziale, 13 Aprile 2026,  l'aula 4 inf 1 ed D 
 Sessione Estiva:
 - TBA
            
