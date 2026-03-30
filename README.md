@@ -63,6 +63,7 @@ La modalità d'esame è la seguente:
 
 ## Appelli d'esame
 - Prova parziale, 13 Aprile 2026,  l'aula 4 inf 1 ed D, ore 14
+
 Sessione Estiva:
 - TBA
            
