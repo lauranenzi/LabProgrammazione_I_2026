@@ -49,7 +49,7 @@ Ci sono le  [slides](slides), che trovate qui sotto, assieme agli [esercizi](ese
 - **Lezione 7** (16/03/2026):
       - Controllo dell'input e tanti esercizi| [slides](slides/Lez6-7.pdf)
 
-- **Lezione 8** 206/03/2026):
+- **Lezione 8** (20/03/2026):
       - List comprehension ed iteratori| [slides](slides/Lez8.pdf)
 
 ## Modalità di esame
@@ -65,7 +65,9 @@ La modalità d'esame è la seguente:
 - Prova parziale, 13 Aprile 2026,  l'aula 4 inf 1 ed D, ore 14
 
 Sessione Estiva:
-- TBA
+- 08/06/2026 in aula 4_INF_01 edificio D (50 posti) ore 10:00 
+- 22/06/2026 in aula 4_INF_01 edificio D (50 posti) ore 10:00 
+- 14/07/2026 in aula 4_INF_01 edificio D (50 posti) ore 10:00 
            
 
 
