@@ -67,7 +67,8 @@ La modalità d'esame è la seguente:
 Sessione Estiva:
 - 08/06/2026 in aula 4_INF_01 edificio D (50 posti) ore 10:00 
 - 22/06/2026 in aula 4_INF_01 edificio D (50 posti) ore 10:00 
-- 14/07/2026 in aula 4_INF_01 edificio D (50 posti) ore 10:00 
+- 14/07/2026 in aula 4_INF_01 edificio D (50 posti) ore 10:00
+- 18/09/2026 in aula 4_INF_01 edificio D (50 posti) ore 10:00 
            
 
 
